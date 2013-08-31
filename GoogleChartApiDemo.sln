@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleChartApi", "GoogleChartApi\GoogleChartApi.csproj", "{C1FE2EE6-220D-499C-BBF8-35263303A8B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawReport", "DrawReport\DrawReport.csproj", "{3FE099D9-FDD0-4A7D-BBA2-5F79A66F4A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{B357E49F-C40A-4F98-AE5C-9A214E04BB89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FE2EE6-220D-499C-BBF8-35263303A8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FE2EE6-220D-499C-BBF8-35263303A8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FE2EE6-220D-499C-BBF8-35263303A8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FE2EE6-220D-499C-BBF8-35263303A8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE099D9-FDD0-4A7D-BBA2-5F79A66F4A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE099D9-FDD0-4A7D-BBA2-5F79A66F4A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE099D9-FDD0-4A7D-BBA2-5F79A66F4A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE099D9-FDD0-4A7D-BBA2-5F79A66F4A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B357E49F-C40A-4F98-AE5C-9A214E04BB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B357E49F-C40A-4F98-AE5C-9A214E04BB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B357E49F-C40A-4F98-AE5C-9A214E04BB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B357E49F-C40A-4F98-AE5C-9A214E04BB89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
